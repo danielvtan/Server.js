@@ -1,0 +1,5 @@
+-cp Source
+-main Client		
+-swf9 Export/Client.swf
+-swf-header 550:400:30:FFFFFF
+-swf-version 11
