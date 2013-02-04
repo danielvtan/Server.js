@@ -1,8 +1,0 @@
---no-traces
-
--cp client/src
-
--swf-header 760:480:30:FFFFFF 
--swf bin/app.swf
--main Main
-

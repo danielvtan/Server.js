@@ -16,5 +16,6 @@ Global
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Client.hxproj
+		outputpath = Export
 	EndGlobalSection
 EndGlobal
