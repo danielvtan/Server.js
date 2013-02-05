@@ -19,5 +19,9 @@
     <Compile Include="Source\Client.hx" />
     <Compile Include="Client.hxml" />
     <Compile Include="Export\Client.swf" />
+    <Compile Include="Source\server\Server.hx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Source\server\" />
   </ItemGroup>
 </Project>
